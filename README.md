@@ -12,5 +12,6 @@ git clone https://github.com/username/python-design-patterns.git
 # Prerequisites
 Make sure you have Python installed:
 
-
+```python
 python --version
+```
