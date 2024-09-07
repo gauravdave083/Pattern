@@ -6,7 +6,7 @@ Welcome to the Python Design Patterns repository! This repository contains examp
 To get started with the design patterns in this repository, simply clone the repository:
 
 ```python
-git clone https://github.com/gauravdave083/Patterns.git
+git clone https://github.com/gauravdave083/Pattern.git
 ```
 
 # Prerequisites
